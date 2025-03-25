@@ -1,4 +1,4 @@
-# Open-Source-LLM
+# Open-Source-LLM (LLaMA-2)
 
 ## LLaMA-2 Document-Based Q&A System
 This project sets up a document-based Q&A system using LLaMA-2, LlamaIndex, and LangChain. It allows users to query a collection of documents and receive AI-generated responses based on the retrieved context.
